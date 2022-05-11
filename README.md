@@ -1,7 +1,8 @@
 # TensorFlow
 TensorFlow Deep Learning Study Material
 
-#Tensorflow is an end to end platform to perform machine learning and deep learning task that allows to find patterns in the data. It helps to predict uncovered, hidden and new patterns in the data which can be used to decide future planning, strategies and actions.
+# Tensorflow is an end to end platform to perform machine learning and deep learning task that allows to find patterns in the data. 
+It helps to predict uncovered, hidden and new patterns in the data which can be used to decide future planning, strategies and actions.
 
 #What we will be covering in this tutorial
 
